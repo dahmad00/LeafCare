@@ -1,0 +1,1 @@
+Leaf Care is a Fruit Plant Disease Recognition Application. It is a smartphone application that can detect diseases in a fruit plant from a leaf image of the plant. The Application uses a custom-built, lightweight Convolutional Neural Network, that is integrated into the application. 
