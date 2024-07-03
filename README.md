@@ -9,6 +9,9 @@ Leaf Care is a Fruit Plant Disease Recognition Application. It is a smartphone a
 - Lightweight and efficient convolutional neural network
 - Trained and evaluated on five fruit plant datasets (Apple, Banana, Tomato, Corn, Citrus)
 
+- ![image](https://github.com/dahmad00/LeafCare/assets/84143726/e64bd96e-fb52-49c4-af1f-2e7d86b379ce)
+
+
 # Convolutional Neural Network
 Leaf Care utilizes a lightweight convolutional neural network that is embedded in the mobile app. The CNN is trained on datasets of five fruits:
 1. Apple
@@ -16,6 +19,7 @@ Leaf Care utilizes a lightweight convolutional neural network that is embedded i
 3. Corn
 4. Citrus
 5. Tomato
+
 
 # Datasets 
 The CNN is trained on five datasets:
